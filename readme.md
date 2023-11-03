@@ -1,9 +1,9 @@
 <h1 align='center'>
- <b>Machine Learning - Regresión lineal: Análisis de correlaciones y previsión de resultados</b>
+ <b>Machine Learning - Regresión lineal </b>
 </h1>
-Aprender a utilizar un modelo de aprendizaje supervizado de Machine Learning  llamado Regresión Lineal  a un caso real, donde aplicaremos técnicas como  el análisis de correlaciones y la previsión de resultados.
 
-## **Tests Estadísticos**
+
+## **Modelo de predicción para el consumo medio de cerveza en un grupo de estudio**
 
 
 ## Table of Contents
@@ -14,7 +14,9 @@ Aprender a utilizar un modelo de aprendizaje supervizado de Machine Learning  ll
 5. [FAQs](#faqs)
 ### General Info
 ***
-Utilizar visualizaciones para entender la distribución de los datos, descubrir la diferencia entre variables dependientes y explicativas en los datos, aprender a separar datos de entrenamiento y test, modelar con regresiones lineales, entender los errores en función de los residuos y métricas, comparar y guardar los mejores modelos.
+El objetivo de este proyecto es estimar un modelo de <b>Machine Learning</b> utilizando la técnica de <b>Regresión Lineal</b> (modelo de aprendizaje supervizado) para demostrar los impactos de las variables disponibles en este dataset sobre el consumo de cerveza (Y). Al final del proyecto, tendremos un modelo de predicción para el consumo medio de cerveza según los inputs de un conjunto de variables (X's).
+
+<b>Análisis de correlaciones y previsión de resultados:</b> Utilizar visualizaciones para entender la distribución de los datos, descubrir la diferencia entre variables dependientes y explicativas en los datos, aprender a separar datos de entrenamiento y test, modelar con regresiones lineales, entender los errores en función de los residuos y métricas, comparar y guardar los mejores modelos.
 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
@@ -24,8 +26,8 @@ A list of technologies used within the project:
 * [Python](https://example.com): Version 3.9.x
 * [Google Colab](https://example.com): Version x.x
 * [Numpy](http://www.numpy.org/): Version 1.20.3
-* [Pandas](https://pandas.pydata.org/): Version 1.5.3
-* [Seaborn](https://seaborn.pydata.org/tutorial.html): Version 0.12.2
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/visualization.html): Version 1.5.3
+* [Seaborn](https://seaborn.pydata.org/): Version 0.12.2
 * [Matplotlib](https://matplotlib.org/stable/): Version 3.8.1
 * [Plotly](https://matplotlib.org/stable/): Version 5.15.0
 * [Statsmodels](https://www.statsmodels.org/stable/index.html): Version 0.14.0
